@@ -1,0 +1,12 @@
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\bin\Debug\5739_NguyenHoangMinh.mdf
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\bin\Debug\5739_NguyenHoangMinh_log.ldf
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\bin\Debug\5739_NguyenHoangMinh.exe.config
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\bin\Debug\5739_NguyenHoangMinh.exe
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\bin\Debug\5739_NguyenHoangMinh.pdb
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\5739_NguyenHoangMinh.csproj.AssemblyReference.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\_5739_NguyenHoangMinh.frm_KhachHang.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\_5739_NguyenHoangMinh.Properties.Resources.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\5739_NguyenHoangMinh.csproj.GenerateResource.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\5739_NguyenHoangMinh.csproj.CoreCompileInputs.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\5739_NguyenHoangMinh.exe
+F:\Học Tập\Lập Trình Ứng Dụng .NET\5739_NguyenHoangMinh\5739_NguyenHoangMinh\obj\Debug\5739_NguyenHoangMinh.pdb
